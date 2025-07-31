@@ -56,6 +56,8 @@ Mendukung pengembangan kualitas UMKM di Kabupaten Kuningan melalui solusi digita
 ## Dokumentasi Foto
 
 Berikut adalah dokumentasi foto kegiatan dan hasil karya di Galeri Ekraf Kuningan.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
 <img width="448" height="379" alt="image" src="https://github.com/user-attachments/assets/82a88169-bb6c-4e97-b099-ccd610a294fd" />
 <img width="448" height="336" alt="image" src="https://github.com/user-attachments/assets/76150c61-bace-4cb7-811c-e9c0c8395428" />
 <img width="460" height="332" alt="image" src="https://github.com/user-attachments/assets/b1326e26-6586-483d-a23a-a104c8310656" />
@@ -76,7 +78,4 @@ Berikut adalah dokumentasi foto kegiatan dan hasil karya di Galeri Ekraf Kuninga
 <img width="471" height="336" alt="image" src="https://github.com/user-attachments/assets/7096ed4f-9008-491f-9d49-782948639ef3" />
 <img width="448" height="322" alt="image" src="https://github.com/user-attachments/assets/b1cae178-d4fb-4798-a750-a36ffc8a72cb" />
 <img width="472" height="323" alt="image" src="https://github.com/user-attachments/assets/4635cd74-e654-469a-9f3b-cd06c2cd2ff5" />
-
-
-
-
+</div>
