@@ -1,4 +1,4 @@
-<img width="448" height="379" alt="image" src="https://github.com/user-attachments/assets/82a88169-bb6c-4e97-b099-ccd610a294fd" /># Galeri Ekraf Kuningan - Inovasi Digital untuk Ekonomi Kreatif
+# Galeri Ekraf Kuningan - Inovasi Digital untuk Ekonomi Kreatif
 
 Selamat datang di repositori GitHub resmi untuk proyek Magang Mandiri (MM) dari kelompok mahasiswa Program Studi Teknik Informatika, Fakultas Ilmu Komputer, Universitas Kuningan.
 
@@ -56,6 +56,7 @@ Mendukung pengembangan kualitas UMKM di Kabupaten Kuningan melalui solusi digita
 ## Dokumentasi Foto
 
 Berikut adalah dokumentasi foto kegiatan dan hasil karya di Galeri Ekraf Kuningan.
+<img width="448" height="379" alt="image" src="https://github.com/user-attachments/assets/82a88169-bb6c-4e97-b099-ccd610a294fd" />
 <img width="448" height="336" alt="image" src="https://github.com/user-attachments/assets/76150c61-bace-4cb7-811c-e9c0c8395428" />
 <img width="460" height="332" alt="image" src="https://github.com/user-attachments/assets/b1326e26-6586-483d-a23a-a104c8310656" />
 <img width="448" height="379" alt="image" src="https://github.com/user-attachments/assets/496c6639-a0c8-4aa0-9770-48099b318c62" />
